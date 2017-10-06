@@ -1,3 +1,3 @@
-# Varcol
+# Varbar
 
-A trivial piece of JS to plot variable-width column charts.
+A trivial piece of JS to plot variable-width bar charts.
